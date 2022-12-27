@@ -11,18 +11,18 @@ namespace Compiler.CodeAnalysis
             _root = root;
         }
 
-        public int Evaluate()
+        public double Evaluate()
         {
             return EvaluateExpression(_root);
         }
 
-        private int EvaluateExpression(ExpressionSyntax node)
+        private double EvaluateExpression(ExpressionSyntax node)
         {
             // Binary expression
             // Number expression
 
             if (node is NumberExpressionSyntax n)
-                return (int)n.NumberToken.Value;
+                return (double)n.NumberToken.Value;
             
             if (node is BinaryExpressionSyntax b)
             {
@@ -42,7 +42,7 @@ namespace Compiler.CodeAnalysis
             }
 
             if (node is ParenthesizedExpressionSyntax p)
-             return EvaluateExpression(p.Expression);
+                return EvaluateExpression(p.Expression);
 
             throw new Exception($"Unexpected node {node.Kind}");
         }

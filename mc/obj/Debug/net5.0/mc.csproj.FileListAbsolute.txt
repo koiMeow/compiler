@@ -14,3 +14,19 @@ C:\Coding\C#\Compiler\mc\obj\Debug\net5.0\refint\mc.dll
 C:\Coding\C#\Compiler\mc\obj\Debug\net5.0\mc.pdb
 C:\Coding\C#\Compiler\mc\obj\Debug\net5.0\mc.genruntimeconfig.cache
 C:\Coding\C#\Compiler\mc\obj\Debug\net5.0\ref\mc.dll
+C:\Program Files\Programming\compiler\mc\bin\Debug\net5.0\mc.exe
+C:\Program Files\Programming\compiler\mc\bin\Debug\net5.0\mc.deps.json
+C:\Program Files\Programming\compiler\mc\bin\Debug\net5.0\mc.runtimeconfig.json
+C:\Program Files\Programming\compiler\mc\bin\Debug\net5.0\mc.runtimeconfig.dev.json
+C:\Program Files\Programming\compiler\mc\bin\Debug\net5.0\mc.dll
+C:\Program Files\Programming\compiler\mc\bin\Debug\net5.0\mc.pdb
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.csproj.AssemblyReference.cache
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.AssemblyInfoInputs.cache
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.AssemblyInfo.cs
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.csproj.CoreCompileInputs.cache
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.dll
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\refint\mc.dll
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.pdb
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\mc.genruntimeconfig.cache
+C:\Program Files\Programming\compiler\mc\obj\Debug\net5.0\ref\mc.dll

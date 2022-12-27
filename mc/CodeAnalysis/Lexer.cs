@@ -49,9 +49,9 @@ namespace Compiler.CodeAnalysis
                 
                 var length = _position - start;
                 var text = _text.Substring(start, length);
-                if (!int.TryParse(text, out var value))
+                if (!double.TryParse(text, out var value))
                 {
-                    _diagnostics.Add($"The number {_text} isn't a valid Int32.");
+                    _diagnostics.Add($"The number {_text} isn't a valid Double.");
                 }
 
                 return new SyntaxToken(SyntaxKind.NumberToken, start, text, value);

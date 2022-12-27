@@ -48,7 +48,7 @@ namespace Compiler
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
 
                     var e = new Evaluator(syntaxTree.Root);
-                    var result = e.Evaluate();
+                    var result = Math.Round(e.Evaluate(), 2);
                     Console.Write("Result: ");
                     Console.WriteLine(line + " = " + result);
                     Console.ForegroundColor = color;
