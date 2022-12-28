@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files\\Programming\\compiler\\mc\\mc.csproj": {}
+    "C:\\Coding\\C#\\Compiler\\mc\\mc.csproj": {}
   },
   "projects": {
-    "C:\\Program Files\\Programming\\compiler\\mc\\mc.csproj": {
+    "C:\\Coding\\C#\\Compiler\\mc\\mc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files\\Programming\\compiler\\mc\\mc.csproj",
+        "projectUniqueName": "C:\\Coding\\C#\\Compiler\\mc\\mc.csproj",
         "projectName": "mc",
-        "projectPath": "C:\\Program Files\\Programming\\compiler\\mc\\mc.csproj",
-        "packagesPath": "C:\\Users\\CloudLab\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files\\Programming\\compiler\\mc\\obj\\",
+        "projectPath": "C:\\Coding\\C#\\Compiler\\mc\\mc.csproj",
+        "packagesPath": "C:\\Users\\ja930\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding\\C#\\Compiler\\mc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\CloudLab\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ja930\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -48,6 +48,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

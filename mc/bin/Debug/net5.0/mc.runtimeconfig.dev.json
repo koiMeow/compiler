@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\CloudLab\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\CloudLab\\.nuget\\packages"
+      "C:\\Users\\ja930\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ja930\\.nuget\\packages"
     ]
   }
 }
